@@ -34,6 +34,7 @@ public class PrimeiraClasseJava {
 				
 				String nome = JOptionPane.showInputDialog("Qual o nome do aluno "+qtd+"?");
 				System.out.println("TESTE");
+				System.out.println("Passei daqui");
 				/*String idade = JOptionPane.showInputDialog("Qual a idade do aluno?");
 				String dataNascimento = JOptionPane.showInputDialog("Qual a data de nascimento do aluno?");
 				String registroGeral = JOptionPane.showInputDialog("Qual o RG do aluno?");
