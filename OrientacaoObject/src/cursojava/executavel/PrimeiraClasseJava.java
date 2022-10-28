@@ -120,7 +120,7 @@ public class PrimeiraClasseJava {
 			}
 			
 		} else {
-			JOptionPane.showMessageDialog(null, "Senha ou login inválido(s)!");
+			JOptionPane.showMessageDialog(null, "Senha ou/e login inválido(s)!");
 		}
 
 	}
